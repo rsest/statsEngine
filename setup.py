@@ -2,17 +2,17 @@
 
 import setuptools
 
-from statistics import __version__ as version
+from statisticEngine import __version__ as version
 
 description = 'Python Statistical Engine.'
 
 setuptools.setup(
-    name='statsEngine',
+    name='statisticEngine',
     version=version,
     description='{0}'.format(description),
     author='Rodrigo Sestari',
     url='https://github.com/rsest/statsEngine',
-    packages=['statistics'],
+    packages=['statisticEngine'],
     license='MIT',
     classifiers=[
         'Intended Audience :: Developers',

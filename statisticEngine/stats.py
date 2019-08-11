@@ -16,7 +16,7 @@ from scipy import special
 from scipy import stats
 from scipy.special import gamma
 
-import statistics.stats_plot as plot
+import statisticEngine.stats_plot as plot
 
 ROOT2 = math.sqrt(2)
 
