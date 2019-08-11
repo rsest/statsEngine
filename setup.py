@@ -12,7 +12,7 @@ setuptools.setup(
     description='{0}'.format(description),
     author='Rodrigo Sestari',
     url='https://github.com/rsest/statsEngine',
-    packages=['statsEngine'],
+    packages=['statistics'],
     license='MIT',
     classifiers=[
         'Intended Audience :: Developers',
