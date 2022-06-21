@@ -5,7 +5,7 @@ import setuptools
 description = 'Python Statistical Engine.'
 
 setuptools.setup(
-    install_requires=["numpy==1.17.1",
+    install_requires=["numpy==1.22.0",
                       "pandas==0.24.0",
                       "scipy==1.3.1",
                       "matplotlib==3.1.1",
